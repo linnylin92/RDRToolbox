@@ -13,7 +13,7 @@ Description: A package for nonlinear dimension reduction using the
 License: GPL (>= 2)
 LazyLoad: yes
 Depends: R (>= 2.9.0)
-Imports: graphics, grDevices, methods, stats, MASS, rgl
+Imports: graphics, grDevices, methods, stats, MASS
 Suggests: golubEsets
 biocViews: DimensionReduction, FeatureExtraction,
         Visualization, Clustering, Microarray
